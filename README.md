@@ -3,170 +3,170 @@
 A comprehensive collection of free resources to learn everything about AI/ML, LLMs and Agents.
 
 ## Mathematical Foundations
-- [Mathematics Roadmap for Machine Learning](https://thepalindrome.org/p/the-roadmap-of-mathematics-for-machine-learning)
-- [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Probability & Statistics - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
-- [Statistics Fundamentals - Josh Strarmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [Mathematics for Machine Learning Specialization - Coursera (Andrew Ng)](https://www.coursera.org/specializations/mathematics-machine-learning)
+- <a href="https://thepalindrome.org/p/the-roadmap-of-mathematics-for-machine-learning" target="_blank" rel="noopener noreferrer">Mathematics Roadmap for Machine Learning</a>
+- <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab" target="_blank" rel="noopener noreferrer">Essence of Linear Algebra - 3Blue1Brown</a>
+- <a href="https://www.khanacademy.org/math/statistics-probability" target="_blank" rel="noopener noreferrer">Probability &amp; Statistics - Khan Academy</a>
+- <a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9" target="_blank" rel="noopener noreferrer">Statistics Fundamentals - Josh Strarmer</a>
+- <a href="https://www.coursera.org/specializations/mathematics-machine-learning" target="_blank" rel="noopener noreferrer">Mathematics for Machine Learning Specialization - Coursera (Andrew Ng)</a>
 
 ## Python
-- [AI Python for Beginners - Deeplearning.ai](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
+- <a href="https://www.deeplearning.ai/short-courses/ai-python-for-beginners/" target="_blank" rel="noopener noreferrer">AI Python for Beginners - Deeplearning.ai</a>
 
 ## AI & ML Fundamentals
-- [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course)
-- [AI for Beginners – Microsoft](https://microsoft.github.io/AI-For-Beginners/)
-- [Elements of AI – University of Helsinki](https://course.elementsofai.com/)
-- [Machine Learning Playlist - Josh Strarmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
-- [Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
+- <a href="https://developers.google.com/machine-learning/crash-course" target="_blank" rel="noopener noreferrer">Machine Learning Crash Course - Google</a>
+- <a href="https://microsoft.github.io/AI-For-Beginners/" target="_blank" rel="noopener noreferrer">AI for Beginners – Microsoft</a>
+- <a href="https://course.elementsofai.com/" target="_blank" rel="noopener noreferrer">Elements of AI – University of Helsinki</a>
+- <a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" target="_blank" rel="noopener noreferrer">Machine Learning Playlist - Josh Strarmer</a>
+- <a href="https://www.coursera.org/specializations/machine-learning-introduction" target="_blank" rel="noopener noreferrer">Machine Learning Specialization - Coursera</a>
 
 ### Machine Learning Frameworks
-- [Scikit-learn](https://scikit-learn.org/stable/)
-- [XGBoost](https://xgboost.ai/)
-- [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
-- [CatBoost](https://catboost.ai/)
+- <a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">Scikit-learn</a>
+- <a href="https://xgboost.ai/" target="_blank" rel="noopener noreferrer">XGBoost</a>
+- <a href="https://lightgbm.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">LightGBM</a>
+- <a href="https://catboost.ai/" target="_blank" rel="noopener noreferrer">CatBoost</a>
 
 ## Deep Learning
-- [Deep Learning Specialization - Coursera (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
-- [Practical Deep Learning for Coders - Fast.ai](https://course.fast.ai/)
-- [Mathematics for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/)
-- [Deep Learning Playlist - Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+- <a href="https://www.coursera.org/specializations/deep-learning" target="_blank" rel="noopener noreferrer">Deep Learning Specialization - Coursera (Andrew Ng)</a>
+- <a href="https://course.fast.ai/" target="_blank" rel="noopener noreferrer">Practical Deep Learning for Coders - Fast.ai</a>
+- <a href="https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/" target="_blank" rel="noopener noreferrer">Mathematics for Deep Learning</a>
+- <a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1" target="_blank" rel="noopener noreferrer">Deep Learning Playlist - Josh Starmer</a>
 
 ### Deep Learning Frameworks
-- [TensorFlow](https://www.tensorflow.org/)
-- [PyTorch](https://pytorch.org/)
-- [Keras](https://keras.io/)
+- <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">TensorFlow</a>
+- <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">PyTorch</a>
+- <a href="https://keras.io/" target="_blank" rel="noopener noreferrer">Keras</a>
 
 ## Deep Learning Specializations
 ### Computer Vision
-- [Deep Learning for Computer Vision - Stanford](https://cs231n.stanford.edu/)
+- <a href="https://cs231n.stanford.edu/" target="_blank" rel="noopener noreferrer">Deep Learning for Computer Vision - Stanford</a>
 ### Natural Language Processing (NLP)
-- [NLP Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing)
+- <a href="https://www.coursera.org/specializations/natural-language-processing" target="_blank" rel="noopener noreferrer">NLP Specialization - Coursera</a>
 ### Reinforcement Learning
-- [Deep RL Course - Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
-- [Deep RL Bootcamp - UC Berkeley](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- <a href="https://huggingface.co/learn/deep-rl-course/unit0/introduction" target="_blank" rel="noopener noreferrer">Deep RL Course - Hugging Face</a>
+- <a href="https://sites.google.com/view/deep-rl-bootcamp/lectures" target="_blank" rel="noopener noreferrer">Deep RL Bootcamp - UC Berkeley</a>
 
 ## Generative AI
-- [The Building Blocks of Generative AI](https://shriftman.substack.com/p/the-building-blocks-of-generative)
-- [Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
-- [Generative AI for Everyone - Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)
+- <a href="https://shriftman.substack.com/p/the-building-blocks-of-generative" target="_blank" rel="noopener noreferrer">The Building Blocks of Generative AI</a>
+- <a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank" rel="noopener noreferrer">Generative AI for Beginners - Microsoft</a>
+- <a href="https://www.coursera.org/learn/generative-ai-for-everyone" target="_blank" rel="noopener noreferrer">Generative AI for Everyone - Coursera</a>
 
 ## Large Language Models (LLMs)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)
-- [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g&pp=ygUDbGxt)
-- [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
-- [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)
-- [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
-- [Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms)
-- [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
-- [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
-- [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
-- [Building GPT from scratch - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-- [LLM Course - GitHub](https://github.com/mlabonne/llm-course)
-- [LLM Course - Hugging Face](https://huggingface.co/learn/llm-course/chapter1/1)
-- [Awesome LLM Apps - GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- <a href="https://jalammar.github.io/illustrated-transformer/" target="_blank" rel="noopener noreferrer">The Illustrated Transformer</a>
+- <a href="https://www.youtube.com/watch?v=LPZh9BOjkQs" target="_blank" rel="noopener noreferrer">Large Language Models explained briefly</a>
+- <a href="https://www.youtube.com/watch?v=zjkBMFhNj_g&amp;pp=ygUDbGxt" target="_blank" rel="noopener noreferrer">Intro to LLMs</a>
+- <a href="https://magazine.sebastianraschka.com/p/understanding-large-language-models" target="_blank" rel="noopener noreferrer">Understanding Large Language Models</a>
+- <a href="https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms" target="_blank" rel="noopener noreferrer">A Visual Guide to Reasoning LLMs</a>
+- <a href="https://magazine.sebastianraschka.com/p/understanding-reasoning-llms" target="_blank" rel="noopener noreferrer">Understanding Reasoning LLMs</a>
+- <a href="https://magazine.sebastianraschka.com/p/understanding-multimodal-llms" target="_blank" rel="noopener noreferrer">Understanding Multimodal LLMs</a>
+- <a href="https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts" target="_blank" rel="noopener noreferrer">A Visual Guide to Mixture of Experts (MoE)</a>
+- <a href="https://magazine.sebastianraschka.com/p/finetuning-large-language-models" target="_blank" rel="noopener noreferrer">Finetuning Large Language Models</a>
+- <a href="https://www.deeplearning.ai/short-courses/how-transformer-llms-work/" target="_blank" rel="noopener noreferrer">How Transformer LLMs Work</a>
+- <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY" target="_blank" rel="noopener noreferrer">Building GPT from scratch - Andrej Karpathy</a>
+- <a href="https://github.com/mlabonne/llm-course" target="_blank" rel="noopener noreferrer">LLM Course - GitHub</a>
+- <a href="https://huggingface.co/learn/llm-course/chapter1/1" target="_blank" rel="noopener noreferrer">LLM Course - Hugging Face</a>
+- <a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank" rel="noopener noreferrer">Awesome LLM Apps - GitHub</a>
 
 ### LLM Chatbots
-- [ChatGPT](https://chatgpt.com/)
-- [Gemini](https://gemini.google.com/app)
-- [Claude](https://claude.ai/new)
-- [Perplexity](https://www.perplexity.ai/)
+- <a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer">ChatGPT</a>
+- <a href="https://gemini.google.com/app" target="_blank" rel="noopener noreferrer">Gemini</a>
+- <a href="https://claude.ai/new" target="_blank" rel="noopener noreferrer">Claude</a>
+- <a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer">Perplexity</a>
 
 ### Open Source LLMs
-- [Llama](https://www.llama.com/)
-- [Deepseek](https://chat.deepseek.com/)
+- <a href="https://www.llama.com/" target="_blank" rel="noopener noreferrer">Llama</a>
+- <a href="https://chat.deepseek.com/" target="_blank" rel="noopener noreferrer">Deepseek</a>
 
 ### LLM APIs
-- [OpenAI](https://platform.openai.com/docs/overview)
-- [Anthropic](https://docs.anthropic.com/en/docs/overview)
-- [Gemini - Google](https://ai.google.dev/gemini-api/docs)
-- [Groq - Inference](https://groq.com/)
+- <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noopener noreferrer">OpenAI</a>
+- <a href="https://docs.anthropic.com/en/docs/overview" target="_blank" rel="noopener noreferrer">Anthropic</a>
+- <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener noreferrer">Gemini - Google</a>
+- <a href="https://groq.com/" target="_blank" rel="noopener noreferrer">Groq - Inference</a>
 
 ### LLM Tools & Frameworks
-- [LangChain](https://www.langchain.com/)
-- [LlamaIndex](https://www.llamaindex.ai/)
-- [Ollama](https://ollama.com/)
-- [Instructor](https://python.useinstructor.com/)
-- [Outlines](https://github.com/dottxt-ai/outlines)
+- <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">LangChain</a>
+- <a href="https://www.llamaindex.ai/" target="_blank" rel="noopener noreferrer">LlamaIndex</a>
+- <a href="https://ollama.com/" target="_blank" rel="noopener noreferrer">Ollama</a>
+- <a href="https://python.useinstructor.com/" target="_blank" rel="noopener noreferrer">Instructor</a>
+- <a href="https://github.com/dottxt-ai/outlines" target="_blank" rel="noopener noreferrer">Outlines</a>
 
 ### LLM Based IDEs
-- [Cursor](https://www.cursor.com/)
-- [Windsurf](https://windsurf.com/editor)
-- [GitHub Copilot](https://github.com/features/copilot)
+- <a href="https://www.cursor.com/" target="_blank" rel="noopener noreferrer">Cursor</a>
+- <a href="https://windsurf.com/editor" target="_blank" rel="noopener noreferrer">Windsurf</a>
+- <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer">GitHub Copilot</a>
 
 ### Agentic Coding Tools
-- [Claude Code](https://code.claude.com/docs/en/overview)
-- [Codex](https://openai.com/codex/)
+- <a href="https://code.claude.com/docs/en/overview" target="_blank" rel="noopener noreferrer">Claude Code</a>
+- <a href="https://openai.com/codex/" target="_blank" rel="noopener noreferrer">Codex</a>
 
 ## Prompt Engineering
-- [Google Prompting Essentials](https://www.coursera.org/google-learn/prompting-essentials)
-- [ChatGPT Prompt Engineering for Developers - Deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- [Advanced Prompting Techniques - Instructor](https://python.useinstructor.com/prompting/)
-- [Prompt Engineering Techniques - Github](https://github.com/NirDiamant/Prompt_Engineering)
-- [Getting Structured LLM Output - Deeplearning.ai](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/)
-- [God Tier Prompts](https://www.godtierprompts.com/)
+- <a href="https://www.coursera.org/google-learn/prompting-essentials" target="_blank" rel="noopener noreferrer">Google Prompting Essentials</a>
+- <a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" target="_blank" rel="noopener noreferrer">ChatGPT Prompt Engineering for Developers - Deeplearning.ai</a>
+- <a href="https://python.useinstructor.com/prompting/" target="_blank" rel="noopener noreferrer">Advanced Prompting Techniques - Instructor</a>
+- <a href="https://github.com/NirDiamant/Prompt_Engineering" target="_blank" rel="noopener noreferrer">Prompt Engineering Techniques - Github</a>
+- <a href="https://www.deeplearning.ai/short-courses/getting-structured-llm-output/" target="_blank" rel="noopener noreferrer">Getting Structured LLM Output - Deeplearning.ai</a>
+- <a href="https://www.godtierprompts.com/" target="_blank" rel="noopener noreferrer">God Tier Prompts</a>
 
 ## Retrieval-Augmented Generation (RAG)
-- [Introduction to RAG - Coursera](https://www.coursera.org/projects/introduction-to-rag)
-- [RAG Techniques - Github](https://github.com/NirDiamant/RAG_Techniques)
+- <a href="https://www.coursera.org/projects/introduction-to-rag" target="_blank" rel="noopener noreferrer">Introduction to RAG - Coursera</a>
+- <a href="https://github.com/NirDiamant/RAG_Techniques" target="_blank" rel="noopener noreferrer">RAG Techniques - Github</a>
 
 ## AI Agents
-- [A Visual Guide to LLM Agents](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents)
-- [Agents - Chip Huyen](https://huyenchip.com/2025/01/07/agents.html)
-- [AI Agents Course - Hugging Face](https://huggingface.co/learn/agents-course/)
-- [Building AI Browser Agents - Deeplearning.ai](https://www.deeplearning.ai/short-courses/building-ai-browser-agents/)
-- [GenAI Agents - Github](https://github.com/NirDiamant/GenAI_Agents)
-- [AI Agents in Action, Second Edition - Book](https://www.manning.com/books/ai-agents-in-action-second-edition)
+- <a href="https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents" target="_blank" rel="noopener noreferrer">A Visual Guide to LLM Agents</a>
+- <a href="https://huyenchip.com/2025/01/07/agents.html" target="_blank" rel="noopener noreferrer">Agents - Chip Huyen</a>
+- <a href="https://huggingface.co/learn/agents-course/" target="_blank" rel="noopener noreferrer">AI Agents Course - Hugging Face</a>
+- <a href="https://www.deeplearning.ai/short-courses/building-ai-browser-agents/" target="_blank" rel="noopener noreferrer">Building AI Browser Agents - Deeplearning.ai</a>
+- <a href="https://github.com/NirDiamant/GenAI_Agents" target="_blank" rel="noopener noreferrer">GenAI Agents - Github</a>
+- <a href="https://www.manning.com/books/ai-agents-in-action-second-edition" target="_blank" rel="noopener noreferrer">AI Agents in Action, Second Edition - Book</a>
 
 ## Model Context Protocol (MCP)
-- [MCP - Anthropic Guide](https://modelcontextprotocol.io/introduction)
-- [Building AI Apps using MCP](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
-- [MCP Course - Hugging Face](https://huggingface.co/learn/mcp-course/unit0/introduction)
-- [Awesome MCP Servers - Github](https://github.com/punkpeye/awesome-mcp-servers)
+- <a href="https://modelcontextprotocol.io/introduction" target="_blank" rel="noopener noreferrer">MCP - Anthropic Guide</a>
+- <a href="https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/" target="_blank" rel="noopener noreferrer">Building AI Apps using MCP</a>
+- <a href="https://huggingface.co/learn/mcp-course/unit0/introduction" target="_blank" rel="noopener noreferrer">MCP Course - Hugging Face</a>
+- <a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank" rel="noopener noreferrer">Awesome MCP Servers - Github</a>
 
 ## MLOps & Deployment
-- [ML in Production - Coursera](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
-- [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
-- [ML System Design - Stanford](https://stanford-cs329s.github.io/syllabus.html)
+- <a href="https://www.coursera.org/learn/introduction-to-machine-learning-in-production" target="_blank" rel="noopener noreferrer">ML in Production - Coursera</a>
+- <a href="https://fullstackdeeplearning.com/course/2022/" target="_blank" rel="noopener noreferrer">Full Stack Deep Learning</a>
+- <a href="https://stanford-cs329s.github.io/syllabus.html" target="_blank" rel="noopener noreferrer">ML System Design - Stanford</a>
 
 ### Tools
-- [Streamlit](https://streamlit.io/)
-- [MLflow](https://mlflow.org/docs/latest/index.html)
+- <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer">Streamlit</a>
+- <a href="https://mlflow.org/docs/latest/index.html" target="_blank" rel="noopener noreferrer">MLflow</a>
 
 ## Guides
-- [OpenAI Cookbook](https://cookbook.openai.com/)
-- [Anthropic courses](https://github.com/anthropics/courses/tree/master)
+- <a href="https://cookbook.openai.com/" target="_blank" rel="noopener noreferrer">OpenAI Cookbook</a>
+- <a href="https://github.com/anthropics/courses/tree/master" target="_blank" rel="noopener noreferrer">Anthropic courses</a>
 
 ## Books
-- [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- [Deep Learning - Ian Goodfellow](https://www.deeplearningbook.org/)
-- [Deep Learning with Python](https://www.amazon.in/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
-- [Why Machines Learn](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749)
-- [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
-- [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
-- [Build a LLM from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-- [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)
-- [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
-- [Build a Multi-Agent System (from Scratch)](https://www.manning.com/books/build-a-multi-agent-system-from-scratch)
-- [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch)
-- [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch)
-- [Build an LLM Application (from Scratch)](https://www.manning.com/books/build-llm-applications-from-scratch)
-- [AI Agents in Action](https://www.manning.com/books/gpt-agents-in-action)
-- [AI Agents in Action, Second Edition](https://www.manning.com/books/ai-agents-in-action-second-edition)
-- [LLMs in Production](https://www.manning.com/books/llms-in-production)
+- <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/" target="_blank" rel="noopener noreferrer">Hands-On Machine Learning</a>
+- <a href="https://www.deeplearningbook.org/" target="_blank" rel="noopener noreferrer">Deep Learning - Ian Goodfellow</a>
+- <a href="https://www.amazon.in/Deep-Learning-Python-Francois-Chollet/dp/1617294438/" target="_blank" rel="noopener noreferrer">Deep Learning with Python</a>
+- <a href="https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749" target="_blank" rel="noopener noreferrer">Why Machines Learn</a>
+- <a href="https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/" target="_blank" rel="noopener noreferrer">Designing Machine Learning Systems</a>
+- <a href="https://www.oreilly.com/library/view/ai-engineering/9781098166298/" target="_blank" rel="noopener noreferrer">AI Engineering</a>
+- <a href="https://www.manning.com/books/build-a-large-language-model-from-scratch" target="_blank" rel="noopener noreferrer">Build a LLM from Scratch</a>
+- <a href="https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/" target="_blank" rel="noopener noreferrer">Prompt Engineering for LLMs</a>
+- <a href="https://www.oreilly.com/library/view/natural-language-processing/9781098136789/" target="_blank" rel="noopener noreferrer">Natural Language Processing with Transformers</a>
+- <a href="https://www.manning.com/books/build-a-multi-agent-system-from-scratch" target="_blank" rel="noopener noreferrer">Build a Multi-Agent System (from Scratch)</a>
+- <a href="https://www.manning.com/books/build-a-reasoning-model-from-scratch" target="_blank" rel="noopener noreferrer">Build a Reasoning Model (From Scratch)</a>
+- <a href="https://www.manning.com/books/build-an-ai-agent-from-scratch" target="_blank" rel="noopener noreferrer">Build an AI Agent (From Scratch)</a>
+- <a href="https://www.manning.com/books/build-llm-applications-from-scratch" target="_blank" rel="noopener noreferrer">Build an LLM Application (from Scratch)</a>
+- <a href="https://www.manning.com/books/gpt-agents-in-action" target="_blank" rel="noopener noreferrer">AI Agents in Action</a>
+- <a href="https://www.manning.com/books/ai-agents-in-action-second-edition" target="_blank" rel="noopener noreferrer">AI Agents in Action, Second Edition</a>
+- <a href="https://www.manning.com/books/llms-in-production" target="_blank" rel="noopener noreferrer">LLMs in Production</a>
 
 ## YouTube Channels
-- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- <a href="https://www.youtube.com/@AndrejKarpathy" target="_blank" rel="noopener noreferrer">Andrej Karpathy</a>
+- <a href="https://www.youtube.com/@3blue1brown" target="_blank" rel="noopener noreferrer">3Blue1Brown</a>
 
 ## Other Resources
-- [Papers with Code](https://paperswithcode.com/)
-- [Kaggle Competitions](https://www.kaggle.com/competitions)
+- <a href="https://paperswithcode.com/" target="_blank" rel="noopener noreferrer">Papers with Code</a>
+- <a href="https://www.kaggle.com/competitions" target="_blank" rel="noopener noreferrer">Kaggle Competitions</a>
 
 ## Must-Read AI Papers
-- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
-- [Generative Adversarial Networks (GANs)](https://arxiv.org/abs/1406.2661)
-- [GPT: Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-- [Chain-of-Thought Prompting Elicits Reasoning in LLMs](https://arxiv.org/abs/2201.11903)
+- <a href="https://arxiv.org/pdf/1706.03762" target="_blank" rel="noopener noreferrer">Attention Is All You Need</a>
+- <a href="https://arxiv.org/abs/1406.2661" target="_blank" rel="noopener noreferrer">Generative Adversarial Networks (GANs)</a>
+- <a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf" target="_blank" rel="noopener noreferrer">GPT: Improving Language Understanding by Generative Pre-Training</a>
+- <a href="https://arxiv.org/abs/2005.14165" target="_blank" rel="noopener noreferrer">GPT-3: Language Models are Few-Shot Learners</a>
+- <a href="https://arxiv.org/abs/1810.04805" target="_blank" rel="noopener noreferrer">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a>
+- <a href="https://arxiv.org/abs/2201.11903" target="_blank" rel="noopener noreferrer">Chain-of-Thought Prompting Elicits Reasoning in LLMs</a>
